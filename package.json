@@ -1,0 +1,23 @@
+{
+  "name": "milktea",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/milktea.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susisu/milktea2.git"
+  },
+  "author": "Susisu <susisu2413@yahoo.co.jp> (https://github.com/susisu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/susisu/milktea2/issues"
+  },
+  "homepage": "https://github.com/susisu/milktea2#readme",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
